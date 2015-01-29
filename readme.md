@@ -20,6 +20,6 @@ Full list of API methods available here: http://crudr.com/docs#api
 
 Initiated by [Makis Tracend](http://github.com/tracend)
 
-Part of [CRUDr](http://github.com/crudr-tools) open source tools
+Part of [CRUDr](http://crudr.com/) by [K&D Interactive](http://kdi.co/)
 
-Released by [K&D Interactive](http://kdi.co)
+Released under the [MIT license](http://makesites.org/licenses/MIT)
