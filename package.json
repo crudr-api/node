@@ -10,10 +10,10 @@
 	"keywords": ["crudr", "crud", "api", "json"],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/crudr-tools/node.git"
+		"url": "git://github.com/crudr-api/node.git"
 	},
 	"bugs": {
-		"url": "http://github.com/crudr-tools/node/issues"
+		"url": "http://github.com/crudr-api/node/issues"
 	},
 	"licenses": [{
 		"type": "MIT",
